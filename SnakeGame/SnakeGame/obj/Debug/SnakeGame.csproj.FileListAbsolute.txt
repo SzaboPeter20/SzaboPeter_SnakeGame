@@ -1,0 +1,15 @@
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\MainWindow.g.cs
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\App.g.cs
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\MainWindow.baml
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.g.resources
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Péter\Prog\SzaboPeter_SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
